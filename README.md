@@ -78,6 +78,8 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 [Cryofall](/cryofall/cryofall)
 
+[Call of Duty 4X](/cod/cod4x)
+
 [ET Legacy](/enemy_territory/etlegacy)
 
 [FTL: Tachyon](/ftl/tachyon)
@@ -91,10 +93,13 @@ If you are reading this it looks like you are looking to add an egg to your serv
   * [FiveM](/gta/fivem)
   * [RageMP](/gta/ragemp)
   * [alt:V](/gta/altv)
+  
 * GTA SA
   * [Multi Theft Auto](/gta/mtasa)
   * [SA-MP](/gta/samp)
-* GTAC [/gta/gtac]
+  
+* GTA
+  * [GTAC](/gta/gtac)
 
 [Mindustry](/mindustry)
   * [Mindustry](/mindustry/mindustry)
@@ -165,6 +170,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Conan Exiles](/steamcmd_servers/conan_exiles)
 * [Don't Starve Together](/steamcmd_servers/dont_starve)
 * [ECO](/steamcmd_servers/eco)
+* [Fistful of Frags](/steamcmd_servers/fof)
 * [HLDS Server](/steamcmd_servers/hlds_server)
 * [Holdfast: Nations At War](/steamcmd_servers/holdfast)
 * [Hurtworld](/steamcmd_servers/hurtworld)
@@ -172,12 +178,15 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Killing Floor 2](/steamcmd_servers/killing_floor_2)
 * [Modiverse](/steamcmd_servers/modiverse)
 * [Mordhau](/steamcmd_servers/mordhau)
+* [No More Room in Hell](/steamcmd_servers/nmrih)
 * [Onset](/steamcmd_servers/onset)
+* [Pavlov VR](/steamcmd_servers/pavlov_vr)
 * [PixARK](/steamcmd_servers/pixark)
 * [Post Scriptum](/steamcmd_servers/post_scriptum)
 * [Project Zomboid](/steamcmd_servers/project_zomboid)
 * [Quake Live](/steamcmd_servers/quake_live)
 * [Rising World](/steamcmd_servers/rising_world)
+* [Risk Of Rain 2](/steamcmd_servers/risk_of_rain_2)
 * [Rust](/steamcmd_servers/rust)
   * [Autowipe](/steamcmd_servers/rust/rust_autowipe)
   * [Staging](/steamcmd_servers/rust/rust_staging)
@@ -227,3 +236,5 @@ If you are reading this it looks like you are looking to add an egg to your serv
 ## [Software](/software/)
 ### Code Server
 * [Code-Server](/software/code-server)
+### haste-server
+* [haste-server](/software/haste-server)
